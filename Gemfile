@@ -13,7 +13,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'bootsnap', '>= 1.1.0', require: false
 
-gem 'devise', '~> 4.6', '>= 4.6.2'
+gem 'devise', '~> 4.7'
 gem 'bootstrap-sass', '~> 3.4.1'
 gem 'jquery-rails'
 gem 'acts_as_votable', '~> 0.12.1'
